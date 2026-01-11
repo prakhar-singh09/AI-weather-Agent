@@ -4,6 +4,7 @@ A step-based AI weather agent built in Python using:
 - Finite State Machine (START → PLAN → TOOL → OUTPUT)
 - Manual tool calling
 - Open Source Model API
+- Works best with LLAMA models bacause of LLaMA models respond better to hard constraints early.
 
 ## Setup
 
