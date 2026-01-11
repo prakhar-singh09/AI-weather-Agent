@@ -25,3 +25,6 @@ Create a .env file:
 ## Run 
 
 python main.py
+
+## Demo
+https://github.com/prakhar-singh09/AI-weather-Agent/raw/main/Recording%202026-01-11%20225742.mp4
